@@ -62,6 +62,11 @@ Apple (AAPL)
 Bu çalışmada GRU modeli daha düşük RMSE değeri elde ederek LSTM modeline göre daha başarılı sonuç vermiştir.
 
 ---
+## Yapılabilecek Geliştirmeler:
+
+- Farklı şirketlerin hisse senetleri üzerinde testler yapılabilir.
+- Açılış (Open), En Yüksek (High), En Düşük (Low) ve İşlem Hacmi (Volume) gibi ek özellikler modele dahil edilebilir.
+- Transformer tabanlı zaman serisi tahmin modelleri ile performans karşılaştırması yapılabilir.
 
 ## Geliştirici
 
