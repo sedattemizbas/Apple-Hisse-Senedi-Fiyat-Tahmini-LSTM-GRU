@@ -52,17 +52,14 @@ Apple (AAPL)
 
 ---
 
-## Sonuçlar
+## Model Sonuçları
 
-LSTM RMSE:
+| Model | RMSE |
+|-------|------:|
+| LSTM | 9.8627 |
+| GRU | 7.3922 |
 
-9.8627
-
-GRU RMSE:
-
-7.3922
-
-Bu projede GRU modeli daha düşük RMSE değeri elde ederek daha başarılı sonuç vermiştir.
+Bu çalışmada GRU modeli daha düşük RMSE değeri elde ederek LSTM modeline göre daha başarılı sonuç vermiştir.
 
 ---
 
