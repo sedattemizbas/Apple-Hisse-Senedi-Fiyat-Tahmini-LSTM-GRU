@@ -1,4 +1,6 @@
 # Apple-Hisse-Senedi-Fiyat-Tahmini-LSTM-GRU
+(Bu Microsoft yaz stajı kapsamında, sıfırdan makine öğrenmesi ve PyTorch öğrenerek geliştirdiğim bir projedir.)
+
 PyTorch kullanılarak Apple (AAPL) hisse senedi fiyatlarının LSTM ve GRU modelleri ile tahmin edilmesi.
 # Apple Hisse Senedi Fiyat Tahmini (LSTM ve GRU)
 
